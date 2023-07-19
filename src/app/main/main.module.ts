@@ -5,7 +5,6 @@ import { MenuModule } from '../presentation/component/menu/menu.module';
 import { MainComponent } from './main.component';
 
 
-
 @NgModule({
   declarations: [
     MainComponent
@@ -13,8 +12,7 @@ import { MainComponent } from './main.component';
   imports: [
     BrowserModule,
     CommonModule,
-    MenuModule
-
+    MenuModule,
   ],
   providers: [],
   bootstrap: [],

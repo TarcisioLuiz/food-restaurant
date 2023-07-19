@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.welcomeText {
+  font-size: x-large;
+  font-style: normal;
+  font-weight: 500;
+  margin-right: 10px;
+  margin-left: 15px;
+  text-align: justify;
+}
+
+img {
+  height: fit-content;
+  width: 800px;
+}
